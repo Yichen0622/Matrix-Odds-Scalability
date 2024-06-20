@@ -1,4 +1,3 @@
-// CPP Program to multiply two matrix using pthreads
 #include <iostream>
 #include <bits/stdc++.h>
 #include <pthread.h>
