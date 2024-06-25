@@ -28,7 +28,6 @@ void* countOdds(void* arg)
     for (int j=0; j< DIM; ++j)
       if(matA[i][j] % 2 !=0 )
          ++result[tid];
-  return 0;
 }
 
 // Driver Code
